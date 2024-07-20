@@ -1,6 +1,7 @@
 # Credit to RisingLeaf for this. Posted on Discord here: 
 
-sharing a script to batch crop landscape images:
+# post:
+# sharing a script to batch crop landscape images:
 ```python
 #!/usr/bin/env python3
 import pillow_avif
@@ -48,4 +49,4 @@ for file in os.listdir(inputf):
 
 print("Finished")
 ```
-I used it for the Incipias, allows you to save a bunch of good images into the `raw` folder and then use the script to crop them into the `out` folder. The script can also generate `highdpi` versions if you use it with `hdpi` in the command line. The script requires to be placed in the same folder as the raw folder, not inside the raw folder. Only dependency is pillow
+# I used it for the Incipias, allows you to save a bunch of good images into the `raw` folder and then use the script to crop them into the `out` folder. The script can also generate `highdpi` versions if you use it with `hdpi` in the command line. The script requires to be placed in the same folder as the raw folder, not inside the raw folder. Only dependency is pillow
