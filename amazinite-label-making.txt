@@ -1,0 +1,8 @@
+(originally posted by Amazinite here: https://discord.com/channels/251118043411775489/640213747486425102/640219569536892948)
+
+Map Labels: If you're creating a new label for the map (like the "The Core" or "Paradise Planets" text that you can see over certain regions of space), then follow this process.
+
+Download InkScape (https://inkscape.org/).
+Create text with the Zapfino font (you may need to find a download for this), 24-point.
+Set the tracking (i.e. spacing between letters) to 24 px, and the fill color to bbc04030.
+Create a curve and use Text -> Put on Path to make the text follow that path. Adjust it as appropriate (possibly adjusting the spacing of individual letters to avoid overlapping the map text), then export as a PNG.
