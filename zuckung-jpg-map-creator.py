@@ -1,4 +1,5 @@
-
+# Doesn't actually help with mapmaking, but generates a jpg out of a data folder.
+# Originally posted by zuckung here: https://discord.com/channels/251118043411775489/769121688503582730/1264239978221801623
 import sys
 import os
 import glob
