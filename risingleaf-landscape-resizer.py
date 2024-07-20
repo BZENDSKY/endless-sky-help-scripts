@@ -1,4 +1,5 @@
-# Credit to RisingLeaf for this script. Posted on Discord here: https://discord.com/channels/251118043411775489/769121688503582730/1264212113468035072
+# Credit to RisingLeaf for this script. 
+# Originally posted on Discord here: https://discord.com/channels/251118043411775489/769121688503582730/1264212113468035072
 
 # post:
 # sharing a script to batch crop landscape images:
