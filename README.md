@@ -2,4 +2,4 @@
 
 Some scripts to help with ES content creating. I didn't make any of these myself, but I thought they should be on GitHub, so here they are.
 
-Also see https://github.com/pilover100/ES-developer-tool for other scripts written by pilover100.
+Also see https://github.com/pilover100/ES-developer-tool for other scripts, which are written by pilover100.
