@@ -1,6 +1,6 @@
-# Originally put here: https://docs.google.com/document/d/1cg9mjd57Crs4-GkLWgIxF7dx0WQ2dewwC9R-SjXV2vI/edit
+Originally put here: https://docs.google.com/document/d/1cg9mjd57Crs4-GkLWgIxF7dx0WQ2dewwC9R-SjXV2vI/edit
 
-Basic texture how-to
+# Basic texture how-to
 No clue how to texture in Blender? Follow these basic steps and get results like this with next to no effort. Less than 5 lazy minutes of work for reasonably good results!
 
 In advance, if some step confuses you, or something is not clear, tag @lorantine (blue dragon profile picture) in the artwork creating channel! When I have time, I'll help you through the steps, and modify the document to be more clear. (Responses are nearly always within 24 hours.)
@@ -10,7 +10,7 @@ Read every step, since if you skip step 7, your textures get messed up after alt
 Preview of what you can expect below. (If it's messed-up white nonsense, use an InCognito browser tab without whatever dark theme may be applied. I had this problem in Opera GX with dark theme.)
 
 
-Step 1. Textures
+### Step 1. Textures
 First of all, you need a texture (the hardest step in the document, really, partially because the rest is luckily very easy). I lazily use a single one for literally everything, as my secret is low effort for good enough results. A professional would do a better job in more time with more texture variety. You can just look up free textures, and if you know some good sites, ping me and I'll add them to the list below for others!
 
 Look for a metallic texture that's basically "the same" all over. An image that has many big smooth surfaces won't work well. Here's the one I use, as an example:
@@ -19,12 +19,12 @@ Look for a metallic texture that's basically "the same" all over. An image that 
 Texture links:
 https://polyhaven.com/textures
 
-Step 2. Add a material
+### Step 2. Add a material
 Now I literally just opened a new file, grabbed the cube, and added a material. Nothing else yet. Click the 'Use Nodes' option too, we will need it for step 3 and onwards!
 
 I set 'Metallic' and 'Roughness' to 0.8 each, but when you copy everything I'm about to say, you can play with those settings after.
 
-Step 3. Add a normal map
+### Step 3. Add a normal map
 Now just click the button in the bottom right of the screenshot below (Normal | Default, which shows on the last screenshot as well), and select the 'Normal Map'.
 
 
@@ -35,23 +35,23 @@ Press that small dot next to 'Color' bottom right, and select 'Image Texture'.
 
 Also, above 'Color' is an option called 'Strength'. I set mine to 0.2, but that too you can just play around with after copying everything here. It basically just sets how noticeable the texture is.
 
-Step 4. Add image texture
+### Step 4. Add image texture
 Click 'Open' bottom right, look for your texture file, and click 'Open Image'. After that, your image is in, and we're already just about done! Just a couple small things remain.
 
 TIP: PNG and JPG work, WEBP and others might not. If yours doesn't work, try a PNG or JPG. If those don't work, tag me for help (Discord @ is at the top of the document), so I can see what's wrong.
 
-Step 5. Actually seeing your textures when working
+### Step 5. Actually seeing your textures when working
 I work in this mode by default. Mode 'Solid' doesn't show the textures, but 'Material Preview' does. I basically never use anything but 'Material Preview', and at very rare times 'Wireframe' or 'Rendered'.
 
 
-Step 6. Result
+### Step 6. Result
 So if you copied everything I said, you should have this:
 
 
 But, if you alter the object, you get this weird stuff:
 
 
-Step 7. Important things to know
+### Step 7. Important things to know
 To avoid those messed-up textures above, you need to reapply them when you're done finishing an object.
 
 Done editing your object?
