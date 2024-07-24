@@ -1,4 +1,5 @@
 Originally put here: https://docs.google.com/document/d/1cg9mjd57Crs4-GkLWgIxF7dx0WQ2dewwC9R-SjXV2vI/edit
+It is probably best to read it there because pictures are missing from this, but if you don't have access to Google or something this is a passable copy.
 
 # Basic texture how-to
 No clue how to texture in Blender? Follow these basic steps and get results like this with next to no effort. Less than 5 lazy minutes of work for reasonably good results!
