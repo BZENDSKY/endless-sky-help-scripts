@@ -5,5 +5,3 @@ Some scripts to help with ES content creating. I didn't make any of these myself
 ## Other links
 
 https://github.com/pilover100/ES-developer-tool for other developer tools written by pilover100.
-
-One thing that is easy to miss on the [ES GitHub wiki](https://github.com/endless-sky/endless-sky/wiki/) is [the planet sprites page](https://github.com/endless-sky/endless-sky/wiki/PlanetSprites).
